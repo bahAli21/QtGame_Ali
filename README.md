@@ -1,7 +1,4 @@
-# QtGame
-Polytech'Tours (France) S8 project - Qt creator c++
-Authors : Derenne / Kiavoukiladioko / Vouillon / Akrafi
-Youtube Demo : https://www.youtube.com/watch?v=lkFG1NFsank
+
 
 # Controls
 | KEY         | Action         |
